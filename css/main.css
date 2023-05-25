@@ -153,6 +153,9 @@ header {
     padding: 52px 64px;
     background-color: #3a3054;
     border-radius: 10px;
+    background-image: url(../images/bg/Path.svg) , url(../images/bg/Path2.svg);
+    background-position: calc(50% + 323px) , calc(50% - 232px) bottom;
+    background-repeat: no-repeat;
 }
 .form-h {
     display: flex;
@@ -306,6 +309,9 @@ article {
     text-align: center;
     padding: 57px;
     background-color: #3a3054;
+    background-image: url(../images/bg/bg/Path.svg) , url(../images/bg/bg/Path2.svg) ,url(../images/bg/bg/Path3.svg);
+    background-position: calc(50% + 440px) , calc(50% - 232px) bottom , calc(50% - 440px) top;
+    background-repeat: no-repeat;
 }
 .article-decs {
     margin-bottom: 32px;
